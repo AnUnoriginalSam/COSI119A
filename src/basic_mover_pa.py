@@ -5,7 +5,7 @@ from geometry_msgs.msg import Point, Pose, Twist
 from tf.transformations import euler_from_quaternion
 
 MAX_TIME_SEC = 60
-SPEED = 0.3
+SPEED = 0.5
 
 # BasicMoverPA
 class BasicMoverPA:
